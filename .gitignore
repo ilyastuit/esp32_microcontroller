@@ -33,7 +33,7 @@ venv/
 .env/
 
 # Ignore IDF related files
-/sdkconfig
+sdkconfig
 /sdkconfig.old
 *.a
 
